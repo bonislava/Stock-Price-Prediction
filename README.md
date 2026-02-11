@@ -1,4 +1,4 @@
-# BMW-Stock-Price-Prediction-XGBoost-LSTM-DRL
+# 1 - BMW-Stock-Price-Prediction-XGBoost-LSTM-DRL
 ## Dataset : [BMW Stock Price Data (1996 - 2024)](https://www.kaggle.com/datasets/mhassansaboor/bmw-stock-data-1996-2024/data)
 ## Details :
 🕒 Date	- The trading date.
@@ -28,3 +28,5 @@
 - cross validation
 - hyperparameter tunning
 -  +
+
+# 2
