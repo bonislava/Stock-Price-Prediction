@@ -22,11 +22,4 @@
 - Total Return (%)
 - Sharpe Ratio
 
-### Future Plans:
-
-- adding new features
-- cross validation
-- hyperparameter tunning
--  +
-
 # 2
