@@ -1,7 +1,7 @@
 # 1 - BMW-Stock-Price-Prediction-XGBoost-LSTM-DRL
 ## Dataset : [BMW Stock Price Data (1996 - 2024)](https://www.kaggle.com/datasets/mhassansaboor/bmw-stock-data-1996-2024/data)
 ## Details :
-🕒 Date	- The trading date.
+Date	- The trading date.
 
 Open -	Stock price at the start of the trading day.
 
@@ -17,7 +17,6 @@ Volume	- Number of shares traded on the given date.
 
 
 ## Performance metrics :
-
 - Mean Squared Error (MSE)
 - Total Return (%)
 - Sharpe Ratio
